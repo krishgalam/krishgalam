@@ -2,7 +2,7 @@
   - Work experience in analysis, design and development of N-tier web applications using .NET technologies and involved in all phases of SDLC. 	
   - Experience in building microservices using azure functions.
   - Experience in developing and deploying applications on to Azure Cloud, and hosted .NET web-based applications on IIS and Azure Container Instances using AKS
-  - Experience in developing application using Azure PAAS services, has good experience in implementing search service using Azure Cognitive Search.
+  - Experience in developing application using **Azure PAAS services**, has good experience in implementing search service using Azure Cognitive Search.
   - Have worked on creating pipelines using Azure Devops tool. Experience in creating build and deploy pipelines using yml files.
   - Worked on Infrastructure as Code using Terraform. Created various Azure resources using Terraform and Bicep 
   - Have good experience in implementing authentication using Azure Active Directory for .net applications.
