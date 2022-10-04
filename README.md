@@ -1,4 +1,4 @@
-- Areas of expertise 	
+## Areas of expertise 	
   - Work experience in analysis, design and development of N-tier web applications using .NET technologies and involved in all phases of SDLC. 	
   - Experience in building microservices using azure functions.
   - Experience in developing and deploying applications on to Azure Cloud, and hosted .NET web-based applications on IIS and Azure Container Instances using AKS
